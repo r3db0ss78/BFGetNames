@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uab4xM7/E2go0Jn50F4a7YwbMXcdvFuvR+lYg+KiLShi+3Qdwi++3nOWgEZFnH4Y8K07HLBQt29PDK37MIqIdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r3d\\Source\\Repos\\BFGetNamesFork\\BFGetNames\\BFGetNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r3d\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
